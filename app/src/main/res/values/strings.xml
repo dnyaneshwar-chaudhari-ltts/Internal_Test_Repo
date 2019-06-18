@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SetupWizard</string>
+    <string name="title_logitech">logitech</string>
+    <string name="title_activity_welcome_screen">WelcomeScreen</string>
+
+    <string name="sign_in_to_sync_portal">Sign in to Sync Portal</string>
+    <string name="create_account">Create account</string>
+    <string name="do_not_use_sync_portal">Don\'\t use Sync Portal account</string>
+</resources>
