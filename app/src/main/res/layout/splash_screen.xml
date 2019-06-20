@@ -7,10 +7,9 @@
         android:gravity="center"
         tools:context=".SplashScreen">
 
-    <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="35sp"
-            android:text="@string/title_logitech"/>
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@mipmap/fg_welcome"/>
 
 </RelativeLayout>
