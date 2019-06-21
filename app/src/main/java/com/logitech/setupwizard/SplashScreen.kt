@@ -7,6 +7,7 @@ import android.support.v7.app.AppCompatActivity
 
 class SplashScreen : AppCompatActivity() {
 
+    //Second Branch changes
     private var mHandler: Handler? = null
     private val SPLASH_DELAY: Long = 3000
 
